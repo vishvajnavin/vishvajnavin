@@ -38,13 +38,13 @@
 ### 📜 The Poneglyphs (Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&bg_color=0d1117&title_color=f8d866&text_color=ffffff&icon_color=ff5c5c&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishvajnavin&show_icons=true&theme=dark&bg_color=0d1117&title_color=f8d866&text_color=ffffff&icon_color=ff5c5c&hide_border=true" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark&bg_color=0d1117&title_color=f8d866&text_color=ffffff&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishvajnavin&layout=compact&theme=dark&bg_color=0d1117&title_color=f8d866&text_color=ffffff&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&background=0d1117&ring=ff5c5c&fire=f8d866&currStreakLabel=f8d866" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishvajnavin&theme=dark&background=0d1117&ring=ff5c5c&fire=f8d866&currStreakLabel=f8d866" alt="streak stats"/>
 </div>
 
 ---
